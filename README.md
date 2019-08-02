@@ -28,7 +28,7 @@ Ces données proviennent   des   Archives   Départementales (AD)   du   Loiret 
 
 
 ## Explications du manuel 
-Pour une meilleure lisibilté il faut mieux ouvrir une capture dans un nouvel onglet. 
+*Pour une meilleure lisibilté il faut mieux ouvrir une capture dans un nouvel onglet.*
 
 ### Page de connexion 
 ![Modification](https://i.imgur.com/E3EdFCl.png)
@@ -42,3 +42,6 @@ Pour une meilleure lisibilté il faut mieux ouvrir une capture dans un nouvel on
 
 ### Page de modification (Uniquement administrateur)
 ![Modification](https://i.imgur.com/e4JVDby.png)
+
+
+*2019 © Janos Falke*
