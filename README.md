@@ -30,7 +30,7 @@ Ces données proviennent   des   Archives   Départementales (AD)   du   Loiret 
 ## Explications du manuel 
 
 ### Page de connexion 
-![Modification](https://i.imgur.com/ACZLdWY.png)
+![Modification](https://i.imgur.com/E3EdFCl.png)
 
 ### Page d'accueil (Utilisateur)
 ![Homepage_User](https://i.imgur.com/tIbQzSk.png)
@@ -40,4 +40,4 @@ Ces données proviennent   des   Archives   Départementales (AD)   du   Loiret 
 ![Homepage_Admin](https://i.imgur.com/QKgIrWw.png)
 
 ### Page de modification (Uniquement administrateur)
-![Modification](https://i.imgur.com/1r8GRQ4.png)
+![Modification](https://i.imgur.com/e4JVDby.png)
