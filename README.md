@@ -28,6 +28,7 @@ Ces données proviennent   des   Archives   Départementales (AD)   du   Loiret 
 
 
 ## Explications du manuel 
+Pour une meilleure lisibilté il faut mieux ouvrir une capture dans un nouvel onglet. 
 
 ### Page de connexion 
 ![Modification](https://i.imgur.com/E3EdFCl.png)
